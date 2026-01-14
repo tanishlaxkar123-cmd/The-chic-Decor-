@@ -1,0 +1,7 @@
+{
+  "name": "The Chic Decor",
+  "description": "A luxury interior design portfolio website featuring minimalist aesthetics, high-end projects, and bespoke craftsmanship.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
